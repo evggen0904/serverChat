@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<commands>
+    <command>
+        <name>users?</name>
+        <description>get all online users in chat</description>
+    </command>
+    <command>
+        <name>help?</name>
+        <description>get all available commands</description>
+    </command>
+    <command>
+        <name>rename?</name>
+        <description>change user login</description>
+    </command>
+</commands>
